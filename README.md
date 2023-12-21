@@ -34,8 +34,6 @@ In non-interactive mode, echo your desired command and pipe it into the program 
 
 <button id="copyButton" data-clipboard-target="#copyTarget"></button>
 
-<pre id="copyTarget">
 ```sh
 echo "ls" | ./shell
 ```
-</pre>
