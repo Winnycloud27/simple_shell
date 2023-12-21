@@ -9,7 +9,7 @@ Simple Shell is one of the famous project in Alx Software Engineering that is to
     * Basics of thinking like an engineer
     * Group work
     * and Learning how to learn
-    
+
 ## COPYRIGHT
 
 Copyright (C) 2023 by Winner Ezaka(@Winnycloud27)
@@ -17,10 +17,10 @@ All rights reserved
 
 ## Installation
 
-   - Clone this repository.
-   - cd to test directory
-   - Compile it using `gcc -Wall -Werror -Wextra -pedantic-std=gnu89 ../*.c -o hsh`
-   - run `./hsh`
+- Clone this repository.
+- cd to test directory
+- Compile it using `gcc -Wall -Werror -Wextra -pedantic-std=gnu89 ../*.c -o hsh`
+- run `./hsh`
 
 ## Usage
 
@@ -31,8 +31,6 @@ In interactive mode, simply run the program and wait for the prompt to appear. F
 Non-Interactive Mode
 
 In non-interactive mode, echo your desired command and pipe it into the program like this:
-
-<button id="copyButton" data-clipboard-target="#copyTarget"></button>
 
 ```sh
 echo "ls" | ./shell
