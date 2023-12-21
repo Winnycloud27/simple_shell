@@ -4,7 +4,8 @@ Simple Shell is one of the famous project in Alx Software Engineering that is to
 
 ## Testing
 
-- Compile it using ```sh 
+- Compile it using: 
+```sh 
 gcc -Wall -Werror -Wextra -pedantic-std=gnu89 ../*.c -o hsh
 ```
 - run ./hsh
