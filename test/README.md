@@ -8,4 +8,4 @@ Simple Shell is one of the famous project in Alx Software Engineering that is to
 ```sh 
 gcc -Wall -Werror -Wextra -pedantic-std=gnu89 ../*.c -o hsh
 ```
-- run ./hsh
+- run :point_right: ./hsh
