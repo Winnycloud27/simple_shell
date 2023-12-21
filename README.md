@@ -32,7 +32,7 @@ Non-Interactive Mode
 
 In non-interactive mode, echo your desired command and pipe it into the program like this:
 
-<button id="copyButton" data-clipboard-target="#copyTarget">Copy</button>
+<button id="copyButton" data-clipboard-target="#copyTarget"></button>
 
 <pre id="copyTarget">
 echo "ls" | ./shell
