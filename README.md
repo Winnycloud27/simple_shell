@@ -37,8 +37,3 @@ In non-interactive mode, echo your desired command and pipe it into the program 
 <pre id="copyTarget">
 echo "ls" | ./shell
 </pre>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-<script>
-  var clipboard = new ClipboardJS('#copyButton');
-</script>
